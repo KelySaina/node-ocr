@@ -35,8 +35,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ocr-image-upload-api.git
-   cd ocr-image-upload-api
+   git clone https://github.com/KelySaina/node-ocr.git
+   cd node-ocr
    ```
 
 2. **Install the dependencies:**
